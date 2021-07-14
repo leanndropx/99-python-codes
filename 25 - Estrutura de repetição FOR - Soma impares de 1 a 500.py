@@ -15,7 +15,7 @@ print()
 
             # 1 - RECEBE DADOS
 
-                                                # - ESTE PROGRAMA NAO NECESSITA INPUT DE DADOS, ELE OS CRIA
+# - ESTE PROGRAMA NAO NECESSITA INPUT DE DADOS, ELE OS CRIA
     
     
     
