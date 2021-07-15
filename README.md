@@ -1,5 +1,6 @@
 # Este repositório contém: 
 
+
 1. 99 arquivos com códigos **Python** (_.py_)  desenvolvidos para exercitar lógica de programação essencial juntamente com funcionalidades da linguagem. 
 
 2. 1 arquivo  **"descreveProgramas.md"** : que contém um índice com as descrições dos 99 códigos, mostrando o que cada um faz.
@@ -10,7 +11,8 @@
 
 
 
-#  com a finalidade de:
+#  Este repositório tem a finalidade de:
+
 
 1. Servir como meu material de apoio para relembrar conceitos, sintaxes, bibliotecas e funções úteis na linguagem, através de exemplos práticos, com códigos organizados e conteúdo visualmente fácil de encontrar.
 2. mostrar um pouco dos meus conhecimentos, da minha evolução e forma de pensar Python e programação
@@ -18,7 +20,10 @@
 
 
 
-# para explorá-lo, como principal sugestão, siga os passos abaixo:
+# Para melhor explorá-lo, como principal sugestão, siga os passos abaixo:
+
+
+
 
 1. Clique em algum dos 99 arquivos .py que deseja visualizar - você pode ler todas as descrições do que faz cada programa no arquivo "descreveProgramas.md"
 2. Copie o código inteiro.
